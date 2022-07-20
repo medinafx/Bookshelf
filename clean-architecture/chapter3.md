@@ -8,3 +8,7 @@ Structured Programming Approach, as the word suggests, can be defined as a progr
 * C++
 * Java
 * C#
+
+## Procedural Programming
+
+Procedural Programming can be defined as a programming model which is derived from structured programming, based upon the concept of calling procedure. Procedures, also known as routines, subroutines or functions, simply consist of a series of computational steps to be carried out. During a program’s execution, any given procedure might be called at any point, including by other procedures or itself.
